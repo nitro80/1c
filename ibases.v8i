@@ -1,0 +1,26 @@
+﻿[Фролов Константин Константинович, ИП]
+Connect=ws="http://comp41.ru:34583/ipfrolov";
+ID=63f52f81-6a39-4df0-a7d9-0581a4268836
+OrderInList=16384
+Folder=/
+OrderInTree=256
+External=1
+UseProxy=0
+App=Auto
+WA=1
+Version=8.3
+WSA=1
+DefaultVersion=8.3.16.1148
+[Компьютер-Сервис, ООО]
+Connect=ws="http://srochno.comp41.ru:34583/cs";
+ID=89df069b-5884-4037-96c0-ef957aa90f78
+OrderInList=16640
+Folder=/
+OrderInTree=16640
+External=1
+UseProxy=0
+App=Auto
+WA=1
+Version=8.3
+WSA=1
+DefaultVersion=8.3.16.1148
